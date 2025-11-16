@@ -1,3 +1,9 @@
+# Week 1 Assignment 2
+This is a function using ascii symbols to draw a circle in the terminal.
+An aspect of Copilot that I found interesting and useful is that it works well to add comments for my codes!
+Every programmer would appreciate this. Because it used to take a lot of extra time to add comments and write documents in order to create a project that is easy to read. There even exist programmers who work well with algorithms but struggle with documentation.
+
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=665539593)
 
 # Rust template
